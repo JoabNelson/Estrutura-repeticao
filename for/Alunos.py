@@ -53,6 +53,6 @@ resultado = [10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
 
 for nota in resultado:
     if nota >= 7:
-        print(f"{nota} Funcionarios Aprovados")
+        print(f"Nota {nota} Funcionario Aprovado")
     else:
-       print(f"{nota} Funcionarios Não Aprovados")
+       print(f"Nota {nota} Funcionario Não Aprovado")
